@@ -1,0 +1,6 @@
+query {
+  users(name:"mu"){
+    name
+    id
+  }
+}
